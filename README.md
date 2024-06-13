@@ -19,4 +19,4 @@ Sigue estos pasos para instalar el proyecto:
 
 # Creditos
 
-**Telegram: ** [MasterBinn3r](https://t.me/MasterBinn3r)
+**Telegram:** [MasterBinn3r](https://t.me/MasterBinn3r)
